@@ -1,4 +1,4 @@
-<h1> Narihy </h1>
+<h1> Educa </h1>
 <p>
     narihy est une platforme e-learning fait avec du PHP et du Javascript,
     le but est de rendre ce plate-forme en API e-learning
